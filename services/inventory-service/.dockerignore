@@ -1,0 +1,6 @@
+.git
+.idea
+.vscode
+.env
+target/*
+!target/inventory-service-0.1.0-SNAPSHOT.jar
